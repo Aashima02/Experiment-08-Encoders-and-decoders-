@@ -122,7 +122,8 @@ endmodule
 ![output](./encoderwf.png)
 
 #### TRUTH TABLE 
-![output](./encodertt.png)
+![encoder truth](https://user-images.githubusercontent.com/93427086/171645891-e4f37212-36aa-40b9-88c3-7f48a221f15e.png)
+
 
 ### DECODER:
 #### RTL LOGIC 
